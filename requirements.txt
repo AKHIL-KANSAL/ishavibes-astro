@@ -1,0 +1,7 @@
+streamlit
+requests
+geopy
+fpdf
+streamlit-lottie
+google-genai
+supabase
